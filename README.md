@@ -154,6 +154,9 @@ To disable the compromise described above, you can specify the `--strict` option
 asyncio_socks_server --strict
 ```
 
+# win_proxy_firewall.py
+自动操作win防火墙
+
 ## Reference
 
 - [RFC1928](https://www.ietf.org/rfc/rfc1928.txt)
