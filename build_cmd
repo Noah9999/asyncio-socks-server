@@ -1,0 +1,2 @@
+#打包 win exe  操作防火墙需要管理员权限
+pyinstaller.exe -F --uac-admin .\asyncio_socks_server\win_proxy_firewall.py
